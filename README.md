@@ -100,7 +100,7 @@
   <section class="contact">
     <h2>Contattaci</h2>
     <p>Per collaborazioni, ordini o info:</p>
-    <p>Email: <a href="mailto:info@slippinbrand.com">info@slippinbrand.com</a></p>
+    <p>Email: <a href="mailto:tito.buisiness@gmail.com">info@slippinbrand.com</a></p>
     <p>Instagram: <a href="https://instagram.com/slippin">@slippin</a></p>
   </section>
 
